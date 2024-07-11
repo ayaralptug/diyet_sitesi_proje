@@ -1,0 +1,41 @@
+{
+    "meals": {
+      "breakfast": [
+        {"name": "Yulaf Ezmesi", "calories": 150},
+        {"name": "Yumurta", "calories": 78},
+        {"name": "Tam Buğday Ekmeği", "calories": 110},
+        {"name": "Peynir", "calories": 80},
+        {"name": "Domates", "calories": 22},
+        {"name": "Salatalık", "calories": 8},
+        {"name": "Yoğurt", "calories": 59},
+        {"name": "Meyve Suyu", "calories": 110},
+        {"name": "Bal", "calories": 64},
+        {"name": "Avokado", "calories": 160}
+      ],
+      "lunch": [
+        {"name": "Izgara Tavuk", "calories": 239},
+        {"name": "Kinoa Salatası", "calories": 120},
+        {"name": "Bulgur Pilavı", "calories": 151},
+        {"name": "Zeytinyağlı Enginar", "calories": 100},
+        {"name": "Mercimek Çorbası", "calories": 110},
+        {"name": "Cacık", "calories": 50},
+        {"name": "Humus", "calories": 166},
+        {"name": "Yeşil Salata", "calories": 33},
+        {"name": "Tam Buğday Makarna", "calories": 174},
+        {"name": "Sebzeli Omlet", "calories": 200}
+      ],
+      "dinner": [
+        {"name": "Somon Balığı", "calories": 206},
+        {"name": "Sebze Çorbası", "calories": 80},
+        {"name": "Zeytinyağlı Barbunya", "calories": 140},
+        {"name": "Yoğurtlu Ispanak", "calories": 70},
+        {"name": "Pilav", "calories": 204},
+        {"name": "Izgara Köfte", "calories": 220},
+        {"name": "Fırınlanmış Patates", "calories": 93},
+        {"name": "Patlıcan Musakka", "calories": 170},
+        {"name": "Kısır", "calories": 130},
+        {"name": "Zeytinyağlı Dolma", "calories": 180}
+      ]
+    }
+  }
+  
